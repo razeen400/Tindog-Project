@@ -1,0 +1,191 @@
+.title{
+    background-color: #ff4c68;
+    color: aliceblue;;
+    
+}
+.container-fluid{
+    margin-top: 40px;
+    
+    
+}
+    
+    
+
+.right{
+    margin-left: 500px;
+    color: rgb(18, 137, 241);
+    
+}
+.left{
+    font-family: 'Anton', sans-serif;
+    
+    
+}
+nav{
+    width: 70%;
+    margin-left: 150px;
+    padding: 40px 0;
+    
+}
+.nav-item{
+    padding: 0 10px;
+    
+}
+
+
+.nav-link{
+    color: white;
+    font-size: 20px;
+}
+
+h1{
+    font-size: 40px;
+    color: aliceblue;
+}
+
+.apple img{
+    width: 200px;
+    height: 400px;
+    transform: rotate(30deg);
+}
+
+
+.flex-row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.apple{
+    max-width: 20%;
+    margin-left: 152px;
+    padding-left: 3px;
+    padding-right: 2px;
+    margin-bottom: 19px;
+
+}
+.apple h2{
+    font-size: 52px;
+    
+    font-family: 'Anton', sans-serif;
+
+}
+.right a:hover{
+    color: #ffffff;
+    text-shadow: 0 0 0.2em #ffffff, 0 0 0.6em #e4e3e3;
+
+}
+.d-grid{
+    margin-top: 321px;
+    margin-left: -248px;
+}
+.btn btn-dark{
+    text-align: center;
+    margin: 14px;
+    padding: 30px;
+}
+
+.features{
+    padding: 7% 15%;
+}
+
+.bibi-box{
+    width: 70px;
+    height: 70px;
+    color: #ef8172;
+
+}
+.row{
+    text-align: center;
+    padding: 9% 0;
+}
+p{
+color: #8f8f8f;
+padding: 4px 30px;
+font-family: 'Satisfy', cursive;
+}
+.banna h2{
+    font-family: 'Anton', sans-serif;
+    padding: 35px 18px;
+    font-size: 29px;
+}
+.images-slide{
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+}
+.carousel{
+    position: relative;
+}
+.carousel-inner{
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+.dog-img{
+    width: 20%;
+    border-radius: 100%;
+    padding: 80px 5px;
+}
+.lady-img{
+    width: 20%;
+    border-radius: 100%;
+    padding: 80px 5px;
+}
+.rony-img{
+    width: 20%;
+    border-radius: 100%;
+    padding: 80px 5px;
+}
+.iamgesslide-text{
+    padding: 47px 247px;
+}
+.press{
+    background-color: #ef8172;
+    text-align: center;
+    padding: 3%;
+}
+.img-thumbnail{
+    width: 15%;
+    margin: 20px 20px 60px;
+    background-color:#ef8172!important;
+    border: #ef8172!important;
+}   
+.dogs-need{
+    text-align: center;
+    margin: 86px 20px;
+}
+.card-header{
+    font-size: 40px;
+    text-decoration: solid;
+    text-transform: capitalize;
+}
+.card-title{
+    font-size: 30px;
+}
+.dogslife-today{
+    margin: 10px 10px;
+    padding: 10px 10px;
+
+}
+h3{
+    font-family: 'Kolker Brush', cursive;
+}
+.app-store{
+    margin: 14px -21px;
+    margin-bottom: -20px;
+
+}
+.app-store img{
+    width: 123px;
+    
+}
+.flex-row2{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 25px 97px;
+}
